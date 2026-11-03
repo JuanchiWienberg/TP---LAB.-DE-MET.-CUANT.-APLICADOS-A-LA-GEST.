@@ -1,1 +1,1 @@
-# TP---LAB.-DE-MET.-CUANT.-APLICADOS-A-LA-GEST.
+# TP:Laboratorio de Métodos Cuantitativos Orientados a la Gestió
